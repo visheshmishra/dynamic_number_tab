@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.main_content{
+	width:100%;
+	height:100%;
+	float:left;
+}
+
+.main_content_iner{
+	width:100%;
+	height:100%;
+	float:left;
+	padding:10px;
+}
+
+.page_content{
+	    width: 100%;
+    float: left;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 600px;
+}
+
+.selected_header{
+	border-bottom: 0;
+    border-left: 2px solid grey;
+    border-top: 2px solid grey;
+    border-right: 2px solid grey;
+	background:white;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+
+.header{
+    float: left;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    background: lightgrey;
+    cursor: pointer;
+	border-bottom: 2px solid grey;
+	    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+     border: 1px solid black; 
+}

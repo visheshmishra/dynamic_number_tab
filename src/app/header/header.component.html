@@ -1,0 +1,14 @@
+<div class="header_div">
+	<div class="header_inner_div">
+		<div class="header" id="header{{header.index}}" [style.width.%]="widthPercentage" *ngFor="let header of showHeaderList; let idx = index"><a routerLink="/home/{{header.header}}" (click)="selectHeader(header.index)">{{header.header}}</a></div>
+		<div class="select_box" *ngIf="dropdownHeaderList.length" [style.width.%]="widthSelectBox">
+			<div class="dropdown">
+					<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+						<span class="caret"></span>
+					</button><ul class="dropdown-menu">
+					  <li *ngFor="let option of dropdownHeaderList; let idx = index" value="option.header"><a routerLink="/home/{{option.header}}" (click)="showInHeader(option,idx)">{{option.header}}</a></li>
+					</ul>
+			</div>
+		</div>
+	</div>
+</div>

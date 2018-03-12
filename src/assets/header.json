@@ -1,0 +1,27 @@
+{
+	"headerList": [{
+			"header": "Tab1",
+			"index": 0
+		},
+		{
+			"header": "Tab2",
+			"index": 1
+		},
+		{
+			"header": "Tab3",
+			"index": 2
+		},
+		{
+			"header": "Tab4",
+			"index": 3
+		},
+		{
+			"header": "Tab5",
+			"index": 4
+		},
+		{
+			"header": "Tab6",
+			"index": 5
+		}
+	]
+}

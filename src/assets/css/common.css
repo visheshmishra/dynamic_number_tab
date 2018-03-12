@@ -1,0 +1,18 @@
+.home_outer{
+	width:100%;
+	float:left;
+}
+
+.home_inner{
+	width:100%;
+	float:left;
+	height:500px;
+	border-bottom:2px solid grey;
+	border-left:2px solid grey;
+	border-right:2px solid grey;
+}
+
+.outer-outlet{
+	width:100%;
+	float:left;
+}
