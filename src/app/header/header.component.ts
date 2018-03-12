@@ -13,8 +13,8 @@ export class HeaderComponent implements OnInit {
 	private headerList:any = [];
 	private widthPercentage:number;
 	private widthSelectBox:number;
-	private showHeaderList:any = [];
-	private dropdownHeaderList:any = [];
+	showHeaderList:any = [];
+	dropdownHeaderList:any = [];
 	private selectedTabIndex:number = 0;
 	private selectedTab:String;
 	
