@@ -1,4 +1,4 @@
-## Dynamic Number Tab
+# Dynamic Number Tab
 
 	Dynamic Number Tab is a project developed in angular 2 and bootstrap with functionality of routing.
 	This project can be used as a initial project setup.
@@ -6,14 +6,14 @@
 
 
 
-	## Getting Started
+	# Getting Started
 
 		Download the "Dynamic Number Tab" folder, and install the required packages by following command.
 			npm install.
 			
 		run ng serve
 
-	## How to use?
+	# How to use?
 
 		 Number of tab that you want to show, specify in app.component.html
 		 by providing value to filed [noOfHeadresToShow] in <app-header> tag.
@@ -32,7 +32,7 @@
      </p>
  
 
-	## Features
+	# Features
  
 		 Routing
 		 
