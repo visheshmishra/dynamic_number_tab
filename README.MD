@@ -8,12 +8,12 @@ Download the "Dynamic Number Tab" folder, and install the required packages by f
 Installing
 
 ```
->npm install
+npm install
 ```
 Run server
 
 ```
->ng serve
+ng serve
 ```
 
 ## How to use?
@@ -28,9 +28,9 @@ Remaining tab you will get in dropdown list.
 
 if number of tab you want to show is less than total number of tab
 
-<p align="center"><img src="assets/img/sample_page1.PNG"></p>
+<p align="center"><img alt="samplePoage1" src="src/assets/img/sample_page1.png" class="img-responsive"></p>
 
 if number of tab you want to show is equal to total number of tab
 
-<p align="center"><img src="assets/img/sample_page2.PNG"></p>
+<p align="center"><img alt="sample_page2" src="src/assets/img/sample_page2.png" class="img-responsive"></p>
 
