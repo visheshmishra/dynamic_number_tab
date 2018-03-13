@@ -18,7 +18,7 @@ ng serve
 
 ## How to use?
  Number of tab that you want to show, specify in app.component.html
- by providing value to filed [noOfHeadresToShow] in ' <app-header>' tag.
+ by providing value to filed [noOfHeadresToShow] in  app-header tag .
 
 ```
 	<app-header [noOfHeadresToShow]=4></app-header>
