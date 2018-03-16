@@ -34,3 +34,10 @@ if number of tab you want to show is equal to total number of tab
 
 <p align="center"><img alt="sample_page2" src="src/assets/img/sample_page2.png" class="img-responsive"></p>
 
+## Features
+<ol>
+		<li> Routing.</li>
+		<li> You can enter url on address bar to get that page.</li>
+		 <li>Sequence of tab always will be in order as you provide their index in header.json (in assets folder ).</li>
+  </ol>
+
